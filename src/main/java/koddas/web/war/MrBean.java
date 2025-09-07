@@ -16,7 +16,7 @@ public class MrBean implements Serializable {
 	 */
 	private static final long serialVersionUID = -3168349974480377280L;
 	
-	private String name1;
+	private String name;
 	private int age;
 	private String nationality;
 	private String carBrand;
