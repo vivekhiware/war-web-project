@@ -15,7 +15,7 @@ public class MrBean implements Serializable {
 	 * number in order for the Java system to recreate saved objects.
 	 */
 	private static final long serialVersionUID = -3168349974480377280L;
-	
+	1
 	private String name;
 	private int age;
 	private String nationality;
@@ -33,7 +33,7 @@ public class MrBean implements Serializable {
 		name = "Rowan Atkinson";
 		age = 60;
 		nationality = "British";
-		carBrand = "Leyland Mini";
+		carBrand = "Leyland Miniq11";
 	}
 
 	/**
